@@ -16,6 +16,7 @@ To run the test-cases, do:
     bin/test.out
 
 To run the (naive) benchmarking, do:
+
     make timeit
     bin/timeit.out
 
